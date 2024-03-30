@@ -1,3 +1,6 @@
+<img src="/assets/inf-logo.png" alt="inf logo" style="height: 100px;" align="right"/>
+
+
 ### About me
 
 - I am a Computer Science undergraduate student at the Federal University of Rio Grande do Sul (UFRGS).
