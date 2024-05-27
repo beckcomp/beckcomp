@@ -8,4 +8,4 @@
 - Fields of interest: visual computing, high-performance computing, theoretical computer science, pure mathematics, and linguistics.
 - Certified C2 level of English; Currently studying Japanese and Korean; Studied Chinese, French, and Spanish in the past.
 - Favourite languages: C, C++, and Japanese
-- [cv](https://beckjj.github.io/CV.pdf)
+- [cv](https://beckcomp.github.io/CV.pdf)
