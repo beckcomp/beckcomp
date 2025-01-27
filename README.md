@@ -1,5 +1,5 @@
 ### About me <img src="/assets/inf-logo.png" alt="inf logo" style="width: 150px;" align="right"/>
-- I am an MSc student in Computer Science at the Federal University of Rio Grande do Sul (UFRGS) and a Bachelor of Medicine student at the Federal University of Health Sciences of Porto Alegre (UFCSPA)
+- I am an MSc student in Computer Science at the Federal University of Rio Grande do Sul (UFRGS) and a Medicine student at the Federal University of Health Sciences of Porto Alegre (UFCSPA)
 - I graduated _summa cum laude_ in Computer Science from UFRGS in 2024. <img src="/assets/ieee-logo.png" alt="ieee logo" style="width: 150px;" align="right"/>
 - I'm currently part of the [Graphics, Image Processing and Interaction Group](https://www.inf.ufrgs.br/cg/) as a grad student at UFRGS, and also the IEEE UFRGS Student Branch. <img src="/assets/ksi-logo.png" alt="ksi logo" style="width: 150px;" align="right"/>As an undergrad I was also part of the [Parallel and Distributed Processing Group (GPPD)](https://www.inf.ufrgs.br/gppd/site/).
 - Fields of interest: digital signal processing, visual computing, high-performance computing, theoretical computer science, pure mathematics, and linguistics. <img src="/assets/medicina.png" alt="med ufcspa" style="width: 150px;" align="right"/>
