@@ -4,5 +4,5 @@
 - I'm currently part of the [Computer Graphics, Image Processing and Interaction Group](https://www.inf.ufrgs.br/cg/)<img src="/assets/ieee-logo.png" alt="ieee logo" style="width: 150px;" align="right"/> as a grad student at UFRGS; As an undergrad I was also part of the [Parallel and Distributed Processing Group (GPPD)](https://www.inf.ufrgs.br/gppd/site/).
 - Fields of interest: digital signal processing, computer graphics,<img src="/assets/ksi-logo.png" alt="ksi logo" style="width: 150px;" align="right"/> radiology, electrophysiology, and linguistics. 
 - [Certified C2 level of English](https://beckcomp.github.io/CAE.pdf); Currently studying Japanese.
-- Favourite languages: C, C++, and Japanese. 
-- [cv](https://beckcomp.github.io/CV.pdf) <img src="/assets/medicina.png" alt="med ufcspa" style="width: 150px;" align="right"/>
+- Favourite languages: C, C++, and Japanese. <img src="/assets/medicina.png" alt="med ufcspa" style="width: 150px;" align="right"/>
+- [cv](https://beckcomp.github.io/CV.pdf) 
